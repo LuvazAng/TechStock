@@ -38,12 +38,11 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 - Sistema operativo: **Windows 10**.
 
-- Iconos: Material Symbols and Icons - Google Fonts
+- Iconos: **Material Symbols and Icons - Google Fonts**
 
 
 
 ## Login / Inicio de sesión.
-
 <img src="https://i.imgur.com/kBwRxl8.gif" title="" alt="Login" data-align="center">
 
 ## Sales generator / Generador de ventas.
@@ -51,7 +50,7 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 
 ## Customers, vendors and products / Clientes, vendedores y productos.
-<img src="https://i.imgur.com/OBS6Bu5.gif" title="" alt="Customers, vendors and products" data-align="center">
+<img src="https://i.imgur.com/OBS6Bu5.gif" title="" alt="CVP" data-align="center">
 
 
 ## Total sales / Ventas totales.
