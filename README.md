@@ -8,7 +8,7 @@ El proyecto de software llamado TechStock es una aplicación de escritorio desar
 
 
 
-El proyecto personal fue desarrollado por Luis Angel Vázquez Carrillo (creador de este repositorio) y [Roberto Carlos Hernández] ([Rob-Telos · GitHub] (https://github.com/rob-telos)) (colaborador del proyecto), con el objetivo de realizar prácticas de lógica de programación orientada a objetos (POO), desarrollo de aplicaciones de escritorio utilizando el lenguaje Java y las bibliotecas Swing proporcionadas por NetBeans.
+El proyecto personal fue desarrollado por Luis Angel Vázquez Carrillo (creador de este repositorio) y [Roberto Carlos Hernandez](https://github.com/rob-telos) (colaborador del proyecto), con el objetivo de realizar prácticas de lógica de programación orientada a objetos (POO), desarrollo de aplicaciones de escritorio utilizando el lenguaje Java y las bibliotecas Swing proporcionadas por NetBeans.
 
 ---
 
