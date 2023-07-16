@@ -44,22 +44,19 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 ## Login / Inicio de sesión.
 
-<img src="https://i.imgur.com/kBwRxl8.gif" title="" alt="gif encriptador" data-align="center">
+<img src="https://i.imgur.com/kBwRxl8.gif" title="" alt="Login" data-align="center">
 
 ## Sales generator / Generador de ventas.
-<img src="https://i.imgur.com/CJKKECK.gif" title="" alt="gif encriptador" data-align="center">
+<img src="https://i.imgur.com/CJKKECK.gif" title="" alt="Sales generator" data-align="center">
 
-![Sales Generador](https://i.imgur.com/CJKKECK.gif)
 
 ## Customers, vendors and products / Clientes, vendedores y productos.
-<img src="https://imgur.com/v19OpjY.gif" title="" alt="gif encriptador" data-align="center">
+<img src="https://i.imgur.com/OBS6Bu5.gif" title="" alt="Customers, vendors and products" data-align="center">
 
-![Customers, vendors and products](https://imgur.com/v19OpjY.gif)
 
 ## Total sales / Ventas totales.
-<img src="https://imgur.com/ucll3Po.gif" title="" alt="gif encriptador" data-align="center">
+<img src="https://imgur.com/ucll3Po.gif" title="" alt="Total sales" data-align="center">
 
-![Total sales](https://imgur.com/ucll3Po.gif)
 
 
 
