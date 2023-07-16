@@ -52,16 +52,12 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 ## Customers, vendors and products / Clientes, vendedores y productos.
 
-![gif encriptador](https://i.imgur.com/v19OpjY.gif)
+![gif encriptador](https://imgur.com/v19OpjY.gif)
 
 ## Total sales / Ventas totales.
 
 ![gif encriptador](https://imgur.com/ucll3Po.gif)
 
 
-
-
-
-[7A3amKM.png (292×120) (imgur.com)](https://i.imgur.com/7A3amKM.png)
 
 
