@@ -48,15 +48,15 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 ## Sales generator / Generador de ventas.
 
-![gif encriptador](https://i.imgur.com/CJKKECK.gif)
+![Sales Generador](https://i.imgur.com/CJKKECK.gif)
 
 ## Customers, vendors and products / Clientes, vendedores y productos.
 
-![gif encriptador](https://imgur.com/v19OpjY.gif)
+![Customers, vendors and products](https://imgur.com/v19OpjY.gif)
 
 ## Total sales / Ventas totales.
 
-![gif encriptador](https://imgur.com/ucll3Po.gif)
+![Total sales](https://imgur.com/ucll3Po.gif)
 
 
 
