@@ -50,7 +50,7 @@ Para poder llevar a cabo el proyecto, se establecieron una serie de requisitos c
 
 
 ## Customers, vendors and products / Clientes, vendedores y productos.
-<img src="https://i.imgur.com/OBS6Bu5.gif" title="" alt="CVP" data-align="center">
+<img src="https://i.imgur.com/jQRYFvI.gif" title="" alt="CVP" data-align="center">
 
 
 ## Total sales / Ventas totales.
